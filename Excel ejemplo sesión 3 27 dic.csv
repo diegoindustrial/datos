@@ -1,5 +1,5 @@
 ID de caso,Ciudad de ubicación,Departamento o Distrito,Atención,Edad,Sexo,Tipo,País de procedencia
-1;Bogotá;Bogotá DC;Recuperado;19;F;Importado;Italia
+1,Bogotá,Bogotá DC,Recuperado,19,F,Importado,Italia
 2;Buga;Valle del Cauca;Recuperado;34;M;Importado;España
 3;Medellín;Antioquia;Recuperado;50;F;Importado;España
 4;Medellín;Antioquia;Recuperado;55;M;Relacionado;Colombia
