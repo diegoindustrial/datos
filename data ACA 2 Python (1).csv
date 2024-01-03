@@ -1,0 +1,1161 @@
+ID de caso,Ciudad de ubicacion,Departamento o Distrito,Atencion,Edad,Sexo,Tipo,Pais de procedencia
+1,Bogota,Bogota DC,Recuperado,19,F,Importado,Italia
+2,Buga,Valle del Cauca,Recuperado,34,M,Importado,Espana
+3,Medellin,Antioquia,Recuperado,50,F,Importado,Espana
+4,Medellin,Antioquia,Recuperado,55,M,Relacionado,Colombia
+5,Medellin,Antioquia,Recuperado,25,M,Relacionado,Colombia
+6,Itagui,Antioquia,Casa,27,F,Relacionado,Colombia
+7,Cartagena,Cartagena DT y C,Recuperado,85,F,Importado,Estados Unidos
+8,Bogota,Bogota DC,Recuperado,22,F,Importado,Espana
+9,Bogota,Bogota DC,Recuperado,28,F,Importado,Espana - Italia
+10,Bogota,Bogota DC,Recuperado,36,F,Importado,Espana
+11,Bogota,Bogota DC,Casa,42,F,Importado,Espana
+12,Neiva,Huila,Casa,74,F,Importado,Italia
+13,Neiva,Huila,Casa,68,F,Relacionado,Colombia
+14,Palmira,Valle del Cauca,Recuperado,48,M,Importado,Espana
+15,Villavicencio,Meta,Recuperado,30,F,Importado,Espana
+16,Bogota,Bogota DC,Recuperado,61,F,Importado,Italia - Ucrania - Espana
+17,Bogota,Bogota DC,Casa,73,F,Importado,Espana
+18,Bogota,Bogota DC,Casa,54,M,Importado,Espana
+19,Bogota,Bogota DC,Recuperado,54,F,Relacionado,Colombia
+20,Medellin,Antioquia,Recuperado,26,F,Relacionado,Colombia
+21,Medellin,Antioquia,Casa,28,M,Relacionado,Colombia
+22,Rionegro,Antioquia,Casa,36,M,Importado,Estados Unidos
+23,Bogota,Bogota DC,Casa,23,M,Relacionado,Colombia
+24,Bogota,Bogota DC,Recuperado,18,F,Importado,Espana
+25,Cali,Valle del Cauca,Casa,49,M,Importado,Espana
+26,Cartagena,Cartagena DT y C,Casa,30,F,Relacionado,Colombia
+27,Cartagena,Cartagena DT y C,Casa,30,F,Relacionado,Colombia
+28,Dosquebradas,Risaralda,Casa,22,M,Importado,Estados Unidos
+29,Neiva,Huila,Recuperado,55,F,Relacionado,Colombia
+30,Cucuta,Norte de Santander,Recuperado,48,F,Importado,Espana
+31,Manizales,Caldas,Recuperado,65,M,Importado,Estados Unidos
+32,Medellin,Antioquia,Recuperado,55,M,Importado,Espana - Croacia - Bosnia
+33,Bogota,Bogota DC,Hospital,59,M,Importado,Espana
+34,Bogota,Bogota DC,Recuperado,23,F,Importado,Espana
+35,Bogota,Bogota DC,Recuperado,54,M,Importado,Espana
+36,Bogota,Bogota DC,Casa,72,M,Importado,Estados Unidos
+37,Bogota,Bogota DC,Casa,45,F,Relacionado,Colombia
+38,Bogota,Bogota DC,Casa,29,M,Importado,Espana
+39,Bogota,Bogota DC,Recuperado,21,M,Importado,Espana
+40,Bogota,Bogota DC,Recuperado,23,F,Importado,Espana
+41,Neiva,Huila,Casa,79,M,Relacionado,Colombia
+42,Neiva,Huila,Recuperado,52,F,Relacionado,Colombia
+43,Neiva,Huila,Recuperado,71,M,Relacionado,Colombia
+44,Neiva,Huila,Recuperado,24,F,Relacionado,Colombia
+45,Subachoque,Cundinamarca,Casa,29,M,Importado,Espana
+46,Bogota,Bogota DC,Casa,44,F,Relacionado,Colombia
+47,Bogota,Bogota DC,Casa,38,M,Relacionado,Colombia
+48,Bogota,Bogota DC,Recuperado,31,M,Relacionado,Colombia
+49,Bogota,Bogota DC,Recuperado,41,F,Importado,Espana
+50,Bogota,Bogota DC,Recuperado,67,F,Importado,Espana
+51,Soacha,Cundinamarca,Casa,24,M,Importado,Ecuador
+52,Bogota,Bogota DC,Recuperado,29,M,Importado,Espana
+53,Bogota,Bogota DC,Recuperado,62,M,Importado,Espana
+54,Bogota,Bogota DC,Recuperado,42,F,Importado,Espana
+55,Bogota,Bogota DC,Recuperado,58,F,Relacionado,Colombia
+56,Bogota,Bogota DC,Casa,34,M,Importado,Espana
+57,Bogota,Bogota DC,Recuperado,37,M,Relacionado,Colombia
+58,Cartagena,Cartagena DT y C,Casa,27,M,Relacionado,Colombia
+59,Barranquilla,Barranquilla DE,Recuperado,20,M,Importado,Espana
+60,Bucaramanga,Santander,Casa,24,M,Importado,Espana
+61,Barranquilla,Barranquilla DE,Casa,21,M,Importado,Espana
+62,Cali,Valle del Cauca,Casa,32,M,Importado,Italia
+63,Cali,Valle del Cauca,Casa,26,F,Importado,Francia
+64,Bogota,Bogota DC,Casa,31,M,Importado,Espana
+65,Bogota,Bogota DC,Casa,64,M,Relacionado,Colombia
+66,Bogota,Bogota DC,Recuperado,40,F,Importado,Espana
+67,Bogota,Bogota DC,Casa,21,M,Importado,Espana
+68,Bogota,Bogota DC,Hospital UCI,72,M,Importado,Espana
+69,Bogota,Bogota DC,Casa,22,F,Importado,Estados Unidos
+70,Bogota,Bogota DC,Casa,37,F,Importado,Turquoa - Grecia
+71,Cucuta,Norte de Santander,Casa,54,M,Relacionado,Colombia
+72,Cucuta,Norte de Santander,Casa,22,F,Relacionado,Colombia
+73,Cartagena,Cartagena DT y C,Casa,54,F,Relacionado,Colombia
+74,Bogota,Bogota DC,Casa,18,M,Relacionado,Colombia
+75,Bogota,Bogota DC,Casa,49,F,Relacionado,Colombia
+76,Armenia,Quindio,Recuperado,46,F,Importado,Italia
+77,Armenia,Quindio,Recuperado,18,M,Importado,Espana
+78,Palmira,Valle del Cauca,Casa,39,F,Relacionado,Colombia
+79,Palmira,Valle del Cauca,Recuperado,9,M,Relacionado,Colombia
+80,Palmira,Valle del Cauca,Recuperado,53,F,Relacionado,Colombia
+81,Cali,Valle del Cauca,Casa,49,F,Importado,Estados Unidos
+82,Cali,Valle del Cauca,Casa,54,M,Importado,Espana
+83,Cali,Valle del Cauca,Casa,56,M,Importado,Estados Unidos
+84,Cali,Valle del Cauca,Casa,51,M,Importado,Ecuador
+85,Cali,Valle del Cauca,Casa,42,F,Relacionado,Colombia
+86,Pereira,Risaralda,Casa,29,M,Importado,Francia
+87,Cajico,Cundinamarca,Recuperado,45,M,Importado,Espana
+88,Ibague,Tolima,Recuperado,36,M,Relacionado,Colombia
+89,Bucaramanga,Santander,Casa,39,F,Importado,Espana
+90,Neiva,Huila,Casa,53,F,Relacionado,Colombia
+91,Cajico,Cundinamarca,Recuperado,32,M,Importado,Espana - Egipto
+92,Bogota,Bogota DC,Casa,50,M,Relacionado,Colombia
+93,Bogota,Bogota DC,Recuperado,26,F,Importado,Espana
+94,Bogota,Bogota DC,Casa,53,M,Importado,Estados Unidos
+95,Bogota,Bogota DC,Hospital UCI,69,M,Importado,Turquoa
+96,Bogota,Bogota DC,Casa,37,F,Importado,Estados Unidos
+97,Cartagena,Cartagena DT y C,Casa,24,M,Importado,Estados Unidos
+98,Cartagena,Cartagena DT y C,Casa,21,M,Importado,Espana
+99,Ibague,Tolima,Casa,16,M,Relacionado,Colombia
+100,Pereira,Risaralda,Casa,21,M,Importado,Espana
+101,Dosquebradas,Risaralda,Casa,18,M,Importado,Espana
+102,Pereira,Risaralda,Recuperado,79,M,Importado,Espana
+103,Cartagena,Cartagena DT y C,Casa,24,F,Importado,Espana
+104,Barranquilla,Barranquilla DE,Recuperado,48,F,Importado,Espana
+105,Palmira,Valle del Cauca,Casa,23,F,Importado,Espana
+106,Medellin,Antioquia,Casa,44,M,Importado,Espana
+107,Medellin,Antioquia,Casa,56,M,Importado,Espana
+108,Medellin,Antioquia,Casa,57,F,Importado,Espana
+109,Bogota,Bogota DC,Casa,54,M,Importado,Espana
+110,Bogota,Bogota DC,Casa,62,F,Importado,Estados Unidos
+111,Bogota,Bogota DC,Casa,60,M,Relacionado,Colombia
+112,Bogota,Bogota DC,Casa,30,M,Importado,Espana
+113,Bogota,Bogota DC,Casa,33,M,Importado,Italia - Espana - Turquoa
+114,Bogota,Bogota DC,Casa,49,M,Importado,Estados Unidos
+115,Bogota,Bogota DC,Casa,29,M,Importado,Ecuador
+116,Bogota,Bogota DC,Casa,40,F,Relacionado,Colombia
+117,Cucuta,Norte de Santander,Casa,28,M,Importado,Espana
+118,Cucuta,Norte de Santander,Recuperado,50,M,Relacionado,Colombia
+119,Cucuta,Norte de Santander,Casa,24,M,Relacionado,Colombia
+120,Armenia,Quindio,Recuperado,23,F,Relacionado,Colombia
+121,Popayan,Cauca,Casa,61,M,Importado,Espana
+122,Popayan,Cauca,Casa,32,F,Importado,Espana
+123,Viterbo,Caldas,Recuperado,38,F,Importado,Espana
+124,Neiva,Huila,Casa,76,F,Relacionado,Colombia
+125,Cartagena,Cartagena DT y C,Casa,47,M,Importado,Espana
+126,Barranquilla,Barranquilla DE,Recuperado,52,F,Importado,Estados Unidos
+127,Barranquilla,Barranquilla DE,Casa,30,F,Relacionado,Colombia
+128,Soacha,Cundinamarca,Casa,58,M,Relacionado,Colombia
+129,Pereira,Risaralda,Casa,26,F,Importado,Espana
+130,Anapoima,Cundinamarca,Casa,53,M,Importado,Estados Unidos
+131,Medellin,Antioquia,Casa,22,F,Importado,Espana - Italia
+132,Cali,Valle del Cauca,Casa,33,M,Relacionado,Colombia
+133,Rionegro,Antioquia,Hospital UCI,51,M,Relacionado,Colombia
+134,Medellin,Antioquia,Casa,28,M,Relacionado,Colombia
+135,Medellin,Antioquia,Casa,44,F,Importado,Alemania
+136,Medellin,Antioquia,Casa,37,M,Relacionado,Colombia
+137,Medellin,Antioquia,Casa,54,M,Importado,Espana - Croacia
+138,Bogota,Bogota DC,Casa,54,M,Importado,Ecuador
+139,Bogota,Bogota DC,Casa,30,M,Importado,Espana - India
+140,Bogota,Bogota DC,Casa,34,M,Importado,Brasil
+141,Medellin,Antioquia,Recuperado,62,F,Importado,Croacia
+142,Medellin,Antioquia,Casa,35,F,Importado,Italia - Jamaica - Panamo
+143,Envigado,Antioquia,Casa,46,M,Importado,Espana - Italia
+144,Medellin,Antioquia,Casa,41,M,Importado,Panamo
+145,Medellin,Antioquia,Casa,18,F,Relacionado,Colombia
+146,Bogota,Bogota DC,Casa,31,F,Relacionado,Colombia
+147,Bogota,Bogota DC,Casa,25,F,Relacionado,Colombia
+148,Bogota,Bogota DC,Casa,32,M,Relacionado,Colombia
+149,Bogota,Bogota DC,Casa,37,M,Importado,Alemania - Estambul
+150,Bogota,Bogota DC,Casa,29,F,Importado,Italia - Espana - Turquoa
+151,Bogota,Bogota DC,Casa,47,M,Importado,Ecuador
+152,Bogota,Bogota DC,Hospital UCI,65,M,Importado,Estados Unidos
+153,Bogota,Bogota DC,Hospital UCI,53,F,Relacionado,Colombia
+154,Bogota,Bogota DC,Casa,40,M,Importado,Jamaica - Panamo - Isla Caimon
+155,Santa Marta,Santa Marta DT y C,Casa,20,M,Importado,Espana
+156,Choa,Cundinamarca,Recuperado,28,F,Importado,Espana
+157,Santa Marta,Santa Marta DT y C,Fallecido,88,M,Relacionado,Colombia
+158,Madrid,Cundinamarca,Casa,32,M,Relacionado,Colombia
+159,Bogota,Bogota DC,Casa,34,M,Importado,Estados Unidos
+160,Bogota,Bogota DC,Casa,42,F,Importado,Estados Unidos
+161,Bogota,Bogota DC,Casa,22,F,Importado,Estados Unidos
+162,Bogota,Bogota DC,Casa,25,M,Importado,Estados Unidos
+163,Bogota,Bogota DC,Hospital UCI,28,M,Relacionado,Colombia
+164,Bogota,Bogota DC,Casa,67,F,Importado,Espana
+165,Bogota,Bogota DC,Casa,32,F,Relacionado,Colombia
+166,Bogota,Bogota DC,Casa,45,F,Relacionado,Colombia
+167,Bogota,Bogota DC,Casa,46,F,Relacionado,Colombia
+168,Bogota,Bogota DC,Hospital,25,F,Importado,Espana
+169,Bogota,Bogota DC,Casa,42,F,Relacionado,Colombia
+170,Bogota,Bogota DC,Casa,45,F,Importado,Grecia
+171,Bogota,Bogota DC,Casa,21,F,Relacionado,Colombia
+172,Bogota,Bogota DC,Casa,27,M,Relacionado,Colombia
+173,Bogota,Bogota DC,Casa,65,F,Importado,Moxico
+174,Bogota,Bogota DC,Casa,70,M,Importado,Moxico
+175,Bogota,Bogota DC,Casa,23,F,Importado,Espana
+176,Ibague,Tolima,Hospital,26,F,Importado,Estados Unidos
+177,Cartagena,Cartagena DT y C,Casa,28,M,Relacionado,Colombia
+178,Cartagena,Cartagena DT y C,Casa,28,M,Importado,Estados Unidos
+179,Cartagena,Cartagena DT y C,Casa,44,F,Relacionado,Colombia
+180,Villa del Rosario,Norte de Santander,Casa,23,M,Importado,Espana
+181,Manizales,Caldas,Casa,22,F,Importado,Estados Unidos
+182,Cucuta,Norte de Santander,Casa,44,F,Relacionado,Colombia
+183,Cali,Valle del Cauca,Casa,48,F,Importado,Ecuador
+184,Pereira,Risaralda,Hospital UCI,41,F,Importado,Estados Unidos
+185,Palmira,Valle del Cauca,Casa,58,F,Relacionado,Colombia
+186,Palmira,Valle del Cauca,Casa,50,F,Importado,Espana
+187,Cali,Valle del Cauca,Hospital UCI,74,M,Relacionado,Colombia
+188,Cali,Valle del Cauca,Fallecido,70,F,Relacionado,Colombia
+189,Cali,Valle del Cauca,Casa,81,F,Importado,Estados Unidos
+190,Cali,Valle del Cauca,Casa,28,M,Importado,Espana
+191,Palmira,Valle del Cauca,Casa,17,M,Importado,Estados Unidos
+192,Cali,Valle del Cauca,Casa,30,F,Relacionado,Colombia
+193,Cali,Valle del Cauca,Casa,53,F,Importado,Italia
+194,Palmira,Valle del Cauca,Casa,63,F,Importado,Espana
+195,Pereira,Risaralda,Casa,65,F,Importado,Estados Unidos
+196,Neiva,Huila,Casa,50,F,Importado,Espana
+197,Cartagena,Cartagena DT y C,Fallecido,58,M,Relacionado,Colombia
+198,Medellin,Antioquia,Casa,39,M,Importado,Espana
+199,Guarne,Antioquia,Casa,28,M,Importado,Estados Unidos
+200,Cartagena,Cartagena DT y C,Hospital,53,F,Relacionado,Colombia
+201,Choa,Cundinamarca,Casa,50,F,Importado,Espana
+202,Bello,Antioquia,Recuperado,26,M,Importado,Espana
+203,Barranquilla,Barranquilla DE,Casa,24,F,Importado,Estados Unidos
+204,Barranquilla,Barranquilla DE,Recuperado,35,M,Importado,Estados Unidos
+205,Bogota,Bogota DC,Casa,28,M,Relacionado,Colombia
+206,Bogota,Bogota DC,Casa,60,F,Importado,Espana
+207,Bogota,Bogota DC,Hospital UCI,41,M,Importado,Guatemala
+208,Bogota,Bogota DC,Casa,62,M,Importado,Espana
+209,Bogota,Bogota DC,Casa,68,F,Importado,Londres
+210,Bogota,Bogota DC,Casa,55,M,Importado,Turquoa
+211,Calarco,Quindio,Casa,25,M,Importado,Espana
+212,Armenia,Quindio,Casa,58,F,Relacionado,Colombia
+213,Valledupar,Cesar,Recuperado,30,M,Importado,Espana
+214,Dosquebradas,Risaralda,Casa,56,F,Relacionado,Colombia
+215,Dosquebradas,Risaralda,Casa,57,F,Importado,Grecia
+216,Dosquebradas,Risaralda,Hospital UCI,45,M,Importado,Espana
+217,Pereira,Risaralda,Casa,33,M,Importado,Madrid
+218,La Dorada,Caldas,Casa,24,F,Relacionado,Colombia
+219,Chinchina,Caldas,Casa,51,M,Importado,Espana
+220,Chinchina,Caldas,Casa,47,F,Relacionado,Colombia
+221,BUCARAMANGA,Santander,Casa,49,F,Importado,Repoblica Dominicana
+222,San Andros,San Andros,Casa,36,M,Relacionado,Colombia
+223,Pereira,Risaralda,Casa,73,F,Importado,Estados Unidos
+224,Ibague,Tolima,Casa,19,M,Relacionado,Colombia
+225,Cali,Valle del Cauca,Casa,22,M,Relacionado,Colombia
+226,Yumbo,Valle del Cauca,Casa,41,F,Relacionado,Colombia
+227,Cali,Valle del Cauca,Casa,28,M,Importado,Estados Unidos
+228,Cali,Valle del Cauca,Casa,26,M,Importado,Espana
+229,Yopal,Casanare,Casa,36,F,Relacionado,Colombia
+230,Armenia,Quindio,Casa,38,F,Relacionado,Colombia
+231,Cali,Valle del Cauca,Casa,46,F,Relacionado,Colombia
+232,Bogota,Bogota DC,Fallecido,59,F,Relacionado,Colombia
+233,Bogota,Bogota DC,Casa,64,M,Relacionado,Colombia
+234,Bogota,Bogota DC,Casa,41,M,Relacionado,Colombia
+235,Bogota,Bogota DC,Hospital,47,M,Importado,Espana
+236,Guatape,Antioquia,Casa,52,M,Relacionado,Colombia
+237,Medellin,Antioquia,Casa,32,M,Importado,Espana
+238,Medellin,Antioquia,Casa,61,F,Importado,Espana
+239,Bello,Antioquia,Casa,41,M,Importado,Espana
+240,Medellin,Antioquia,Hospital UCI,41,M,Importado,Espana
+241,Bogota,Bogota DC,Casa,58,F,Relacionado,Colombia
+242,Bogota,Bogota DC,Casa,49,M,Importado,Estados Unidos
+243,Bogota,Bogota DC,Casa,40,M,Importado,Espana
+244,Bogota,Bogota DC,Casa,52,M,Importado,Panamo
+245,Bogota,Bogota DC,Casa,72,F,Importado,Turquoa - Grecia
+246,Bogota,Bogota DC,Hospital,28,M,Relacionado,Colombia
+247,Bogota,Bogota DC,Casa,26,M,Relacionado,Colombia
+248,Bogota,Bogota DC,Casa,30,F,Importado,Repoblica Dominicana
+249,Bogota,Bogota DC,Casa,38,F,Importado,Espana
+250,Bogota,Bogota DC,Fallecido,76,M,En estudio,Colombia
+251,Bogota,Bogota DC,Casa,55,M,Importado,Estados Unidos
+252,Bogota,Bogota DC,Casa,32,F,Relacionado,Colombia
+253,Bogota,Bogota DC,Casa,34,F,Relacionado,Colombia
+254,Bogota,Bogota DC,Casa,45,F,Importado,Espana
+255,Bogota,Bogota DC,Casa,19,F,Importado,Estados Unidos
+256,Bogota,Bogota DC,Casa,57,F,Importado,Turquoa
+257,Bogota,Bogota DC,Hospital,80,M,Relacionado,Colombia
+258,Bogota,Bogota DC,Casa,26,M,Importado,Turquoa
+259,Bogota,Bogota DC,Casa,35,M,Importado,Espana
+260,Bogota,Bogota DC,Hospital,41,M,Importado,Inglaterra
+261,Bogota,Bogota DC,Hospital UCI,61,M,Relacionado,Colombia
+262,Bogota,Bogota DC,Casa,39,M,Importado,Isla Martin - Caribe
+263,Medellin,Antioquia,Casa,59,M,Importado,Espana
+264,Envigado,Antioquia,Casa,39,F,Importado,Espana
+265,Cajico,Cundinamarca,Casa,54,M,Importado,Ecuador
+266,Cartagena,Cartagena DT y C,Hospital,84,F,Relacionado,Colombia
+267,Medellin,Antioquia,Casa,21,M,Importado,Estados Unidos
+268,Medellin,Antioquia,Casa,37,F,Importado,Espana
+269,Choa,Cundinamarca,Hospital,56,M,Relacionado,Colombia
+270,Cartagena,Cartagena DT y C,Casa,58,F,Relacionado,Colombia
+271,Medellin,Antioquia,Casa,21,F,Importado,Espana
+272,Medellin,Antioquia,Casa,47,F,Importado,Espana
+273,Medellin,Antioquia,Hospital,87,M,Importado,Panamo
+274,Medellin,Antioquia,Casa,30,M,Importado,Estados Unidos
+275,Barbosa,Antioquia,Casa,21,F,Importado,Espana
+276,Cota,Cundinamarca,Casa,52,M,Importado,Puerto Rico
+277,Sabaneta,Antioquia,Casa,36,F,Importado,Estados Unidos
+278,Armenia,Quindio,Hospital UCI,64,M,Importado,Espana
+279,Villamaroa,Caldas,Casa,29,M,Importado,Ecuador
+280,Palmira,Valle del Cauca,Casa,63,F,Importado,Espana
+281,Trujillo,Valle del Cauca,Casa,51,M,Importado,Espana
+282,Cali,Valle del Cauca,Hospital UCI,40,M,Importado,Estados Unidos
+283,Cali,Valle del Cauca,Casa,56,M,Relacionado,Colombia
+284,Cali,Valle del Cauca,Casa,65,F,Importado,Espana
+285,Palmira,Valle del Cauca,Casa,42,F,Relacionado,Colombia
+286,Neiva,Huila,Hospital,83,F,Relacionado,Colombia
+287,Soacha,Cundinamarca,Casa,25,M,En estudio,Colombia
+288,Pacho,Cundinamarca,Casa,29,M,Importado,Espana
+289,Dosquebradas,Risaralda,Casa,49,F,Relacionado,Colombia
+290,Santa Marta,Santa Marta DT y C,Hospital,63,F,Relacionado,Colombia
+291,El Retiro,Antioquia,Casa,23,F,Importado,Espana
+292,Medellin,Antioquia,Casa,43,F,Importado,Estados Unidos
+293,Medellin,Antioquia,Casa,30,F,Importado,Ecuador
+294,Medellin,Antioquia,Casa,30,F,Importado,Estados Unidos
+295,Medellin,Antioquia,Casa,42,M,Relacionado,Colombia
+296,Medellin,Antioquia,Casa,25,F,Importado,Estados Unidos
+297,Envigado,Antioquia,Casa,20,M,Importado,Londres
+298,Villavicencio,Meta,Casa,58,M,Importado,Ecuador
+299,Villavicencio,Meta,Casa,60,F,Importado,Ecuador
+300,Medellin,Antioquia,Casa,29,F,Importado,Turquoa
+301,Apartado,Antioquia,Casa,29,F,Importado,Turquoa
+302,Villavicencio,Meta,Casa,33,F,Importado,Estados Unidos
+303,Itagui,Antioquia,Hospital UCI,74,F,Importado,Estados Unidos
+304,Bello,Antioquia,Casa,30,M,Importado,Estados Unidos
+305,Villavicencio,Meta,Casa,29,M,Importado,Ecuador
+306,Rionegro,Antioquia,Casa,29,M,Importado,Brasil
+307,Bogota,Bogota DC,Casa,31,M,Importado,Chile
+308,Bogota,Bogota DC,Casa,21,F,En estudio,Colombia
+309,Bogota,Bogota DC,Hospital,59,M,Importado,Estados Unidos
+310,Bogota,Bogota DC,Casa,28,F,Importado,Estados Unidos
+311,Bogota,Bogota DC,Casa,40,F,En estudio,Colombia
+312,Bogota,Bogota DC,Casa,18,F,En estudio,Colombia
+313,Bogota,Bogota DC,Casa,48,F,En estudio,Colombia
+314,Ipiales,Narino,Casa,62,M,Importado,Ecuador
+315,Cucuta,Norte de Santander,Casa,49,M,Importado,Canado
+316,Cucuta,Norte de Santander,Casa,18,M,Importado,Estados Unidos
+317,Mosquera,Cundinamarca,Casa,37,M,Relacionado,Colombia
+318,Cucuta,Norte de Santander,Casa,78,M,Relacionado,Colombia
+319,Ibague,Tolima,Casa,62,F,Importado,Espana
+320,Ibague,Tolima,Casa,56,M,Importado,Espana
+321,Ibague,Tolima,Casa,23,F,Importado,Estados Unidos
+322,Ibague,Tolima,Casa,55,F,Importado,Espana
+323,Viterbo,Caldas,Casa,15,F,Relacionado,Colombia
+324,Barranquilla,Barranquilla DE,Casa,57,M,Importado,Panamo
+325,Barranquilla,Barranquilla DE,Casa,19,F,Importado,Espana
+326,Pereira,Risaralda,Fallecido,61,M,Relacionado,Colombia
+327,Pereira,Risaralda,Casa,32,F,Relacionado,Colombia
+328,Valledupar,Cesar,Casa,33,M,Relacionado,Colombia
+329,Cartagena,Cartagena DT y C,Casa,51,F,Importado,Espana
+330,Cartagena,Cartagena DT y C,Casa,42,M,Importado,Brasil
+331,Cali,Valle del Cauca,Casa,37,M,Importado,Costa Rica
+332,Cali,Valle del Cauca,Hospital UCI,38,F,Importado,Espana
+333,Pereira,Risaralda,Casa,79,M,Importado,Espana
+334,Cali,Valle del Cauca,Casa,23,M,Relacionado,Colombia
+335,Cali,Valle del Cauca,Hospital UCI,59,M,Relacionado,Colombia
+336,Cartagena,Cartagena DT y C,Casa,24,M,Relacionado,Colombia
+337,Cali,Valle del Cauca,Casa,22,M,Relacionado,Colombia
+338,La Union,Valle del Cauca,Casa,56,F,Importado,Londres
+339,Cartago,Valle del Cauca,Casa,34,F,Importado,Espana
+340,Cartagena,Cartagena DT y C,Casa,36,M,Relacionado,Colombia
+341,Neiva,Huila,Casa,68,M,Relacionado,Colombia
+342,Cali,Valle del Cauca,Casa,47,F,Relacionado,Colombia
+343,Cali,Valle del Cauca,Casa,26,F,Importado,Estados Unidos
+344,Cali,Valle del Cauca,Casa,56,M,Relacionado,Colombia
+345,Cali,Valle del Cauca,Casa,53,F,Relacionado,Colombia
+346,Cali,Valle del Cauca,Casa,87,M,Relacionado,Colombia
+347,Villavicencio,Meta,Casa,43,F,Importado,Espana
+348,Cali,Valle del Cauca,Casa,36,F,Relacionado,Colombia
+349,Cali,Valle del Cauca,Casa,33,F,Relacionado,Colombia
+350,Fusagasugo,Cundinamarca,Casa,54,M,Importado,Turquoa
+351,La Calera,Cundinamarca,Hospital,58,M,Relacionado,Colombia
+352,Villeta,Cundinamarca,Casa,33,M,Importado,Espana
+353,Palermo,Huila,Casa,41,M,Importado,Ecuador
+354,San Pedro,Valle del Cauca,Casa,29,F,Relacionado,Colombia
+355,Villeta,Cundinamarca,Casa,44,F,Importado,Espana
+356,Anapoima,Cundinamarca,Casa,32,M,Importado,Espana
+357,Cali,Valle del Cauca,Casa,42,M,Relacionado,Colombia
+358,Cali,Valle del Cauca,Casa,58,F,Importado,Espana
+359,Neiva,Huila,Casa,42,F,Relacionado,Colombia
+360,Cali,Valle del Cauca,Casa,33,M,Relacionado,Colombia
+361,Villavicencio,Meta,Casa,80,F,Importado,Estados Unidos
+362,Cali,Valle del Cauca,Casa,46,M,Importado,Ecuador
+363,Cali,Valle del Cauca,Casa,23,M,Importado,Espana
+364,Cali,Valle del Cauca,Casa,21,F,Relacionado,Colombia
+365,Cali,Valle del Cauca,Casa,64,M,Importado,Espana
+366,Cali,Valle del Cauca,Casa,34,M,Relacionado,Colombia
+367,Cali,Valle del Cauca,Casa,28,F,Relacionado,Colombia
+368,Armenia,Quindio,Casa,34,F,Importado,Espana
+369,Darion,Valle del Cauca,Casa,41,M,Importado,Espana
+370,Funza,Cundinamarca,Casa,61,F,Relacionado,Colombia
+371,Santa Marta,Santa Marta DT y C,Casa,83,F,Relacionado,Colombia
+372,Manizales,Caldas,Casa,70,M,Importado,Estados Unidos
+373,Cartagena,Cartagena DT y C,Casa,39,M,Importado,Estados Unidos
+374,Cali,Valle del Cauca,Hospital UCI,29,M,Relacionado,Colombia
+375,Cali,Valle del Cauca,Casa,28,M,Relacionado,Colombia
+376,Popayan,Cauca,Casa,48,F,Relacionado,Colombia
+377,Tuluo,Valle del Cauca,Casa,52,M,Importado,Ecuador
+378,Tuluo,Valle del Cauca,Casa,45,M,Importado,Estados Unidos
+379,Bogota,Bogota DC,Casa,23,F,Relacionado,Colombia
+380,Bogota,Bogota DC,Casa,34,F,Relacionado,Colombia
+381,Bogota,Bogota DC,Casa,48,F,Importado,Espana
+382,Bogota,Bogota DC,Casa,58,F,Importado,Puerto Rico
+383,Bogota,Bogota DC,Casa,61,M,Importado,Puerto Rico
+384,Bogota,Bogota DC,Casa,63,M,Relacionado,Colombia
+385,Bogota,Bogota DC,Hospital,51,M,Importado,Moxico
+386,Bogota,Bogota DC,Casa,59,M,Importado,Venezuela
+387,Bogota,Bogota DC,Hospital UCI,43,F,En estudio,Colombia
+388,Bogota,Bogota DC,Casa,29,M,Importado,Estados Unidos
+389,Bogota,Bogota DC,Fallecido,73,M,Relacionado,Colombia
+390,Bogota,Bogota DC,Casa,74,F,Relacionado,Colombia
+391,Bogota,Bogota DC,Casa,48,M,Relacionado,Colombia
+392,Bogota,Bogota DC,Casa,45,F,Importado,Espana
+393,Bogota,Bogota DC,Casa,34,M,Importado,Moxico
+394,Bogota,Bogota DC,Hospital,66,M,Importado,Estados Unidos
+395,Bogota,Bogota DC,Hospital,45,M,Relacionado,Colombia
+396,Bogota,Bogota DC,Casa,44,F,Importado,Canado
+397,Bogota,Bogota DC,Casa,27,F,Relacionado,Colombia
+398,Bogota,Bogota DC,Casa,51,F,Relacionado,Colombia
+399,Bogota,Bogota DC,Casa,21,M,Importado,Espana
+400,Bogota,Bogota DC,Casa,60,F,Importado,Espana
+401,Bogota,Bogota DC,Casa,30,F,Importado,Londres
+402,Bogota,Bogota DC,Casa,70,F,Importado,Espana
+403,Bogota,Bogota DC,Casa,21,M,Importado,Moxico
+404,Bogota,Bogota DC,Casa,58,M,Importado,Puerto Rico
+405,Bogota,Bogota DC,Casa,39,M,Relacionado,Colombia
+406,Bogota,Bogota DC,Casa,25,M,Importado,Espana
+407,Bogota,Bogota DC,Casa,25,F,Importado,Espana
+408,Bogota,Bogota DC,Casa,45,M,Importado,Ecuador
+409,Bogota,Bogota DC,Casa,43,F,Relacionado,Colombia
+410,Bogota,Bogota DC,Casa,33,F,Importado,Ecuador
+411,Bogota,Bogota DC,Casa,23,F,Importado,Moxico
+412,Bogota,Bogota DC,Hospital UCI,57,F,En estudio,Colombia
+413,Bogota,Bogota DC,Casa,63,M,Relacionado,Colombia
+414,Bogota,Bogota DC,Casa,48,M,Importado,Brasil
+415,Bogota,Bogota DC,Hospital UCI,62,M,En estudio,Colombia
+416,Bogota,Bogota DC,Casa,35,M,Importado,Espana
+417,Bogota,Bogota DC,Casa,52,F,Relacionado,Colombia
+418,Bogota,Bogota DC,Hospital,69,F,En estudio,Colombia
+419,Bogota,Bogota DC,Casa,35,M,En estudio,Colombia
+420,Santa Marta,Santa Marta DT y C,Casa,58,M,En estudio,Colombia
+421,Soledad,Atlontico,Casa,21,F,En estudio,Colombia
+422,Cartagena,Cartagena DT y C,Casa,50,F,Relacionado,Colombia
+423,Pereira,Risaralda,Casa,28,F,Relacionado,Colombia
+424,Pereira,Risaralda,Casa,64,M,Importado,Estados Unidos
+425,Cali,Valle del Cauca,Casa,80,F,Relacionado,Colombia
+426,Cartagena,Cartagena DT y C,Casa,41,F,Relacionado,Colombia
+427,Cartagena,Cartagena DT y C,Casa,54,M,Relacionado,Colombia
+428,Ibague,Tolima,Casa,44,M,Importado,Estados Unidos
+429,El Dovio,Valle del Cauca,Casa,48,M,Importado,Italia
+430,Cartagena,Cartagena DT y C,Casa,38,M,Relacionado,Colombia
+431,Armenia,Quindio,Casa,50,F,Relacionado,Colombia
+432,Palmira,Valle del Cauca,Casa,9,M,Relacionado,Colombia
+433,Armenia,Quindio,Casa,33,M,Relacionado,Colombia
+434,Barranquilla,Barranquilla DE,Casa,25,M,Importado,Estados Unidos
+435,Armenia,Quindio,Casa,19,M,Relacionado,Colombia
+436,Cartagena,Cartagena DT y C,Casa,38,F,Relacionado,Colombia
+437,Cucuta,Norte de Santander,Casa,28,F,Relacionado,Colombia
+438,Medellin,Antioquia,Casa,36,F,Relacionado,Colombia
+439,La Dorada,Caldas,Casa,28,M,Relacionado,Colombia
+440,Cucuta,Norte de Santander,Casa,73,F,Relacionado,Colombia
+441,Bogota,Bogota DC,Casa,43,F,Relacionado,Colombia
+442,Bogota,Bogota DC,Casa,55,F,Relacionado,Colombia
+443,Bogota,Bogota DC,Casa,34,F,Relacionado,Colombia
+444,Medellin,Antioquia,Casa,37,M,Importado,Brasil
+445,Santana,Boyaco,Casa,57,F,Relacionado,Colombia
+446,Bogota,Bogota DC,Casa,35,F,Relacionado,Colombia
+447,Cota,Cundinamarca,Casa,52,M,Relacionado,Colombia
+448,Bogota,Bogota DC,Casa,40,M,Relacionado,Colombia
+449,Popayan,Cauca,Casa,48,M,Relacionado,Colombia
+450,Medellin,Antioquia,Casa,24,F,Relacionado,Colombia
+451,Bucaramanga,Santander,Casa,33,F,Importado,Moxico
+452,Bello,Antioquia,Casa,32,F,Importado,Espana
+453,Manizales,Caldas,Casa,26,F,Importado,Espana
+454,Bogota,Bogota DC,Casa,50,F,Importado,Espana
+455,Cali,Valle del Cauca,Casa,35,F,Importado,Estados Unidos
+456,Palmira,Valle del Cauca,Casa,58,M,Relacionado,Colombia
+457,Villavicencio,Meta,Casa,29,M,Importado,Estados Unidos
+458,Popayan,Cauca,Casa,45,F,Relacionado,Colombia
+459,Popayan,Cauca,Casa,26,M,Relacionado,Colombia
+460,Armenia,Quindio,Casa,72,M,En estudio,Colombia
+461,Cucuta,Norte de Santander,Casa,44,F,Relacionado,Colombia
+462,Frontino,Antioquia,Casa,15,M,Relacionado,Colombia
+463,Barranquilla,Barranquilla DE,Casa,19,F,Importado,Espana
+464,Medellin,Antioquia,Casa,34,M,Relacionado,Colombia
+465,Medellin,Antioquia,Casa,28,M,En estudio,Colombia
+466,Medellin,Antioquia,Casa,32,F,En estudio,Colombia
+467,Cucuta,Norte de Santander,Casa,33,M,En estudio,Colombia
+468,Popayan,Cauca,Casa,3,F,Relacionado,Colombia
+469,Popayan,Cauca,Casa,32,F,Relacionado,Colombia
+470,Popayan,Cauca,Casa,45,F,Relacionado,Colombia
+471,Barranquilla,Barranquilla DE,Casa,50,F,Importado,Estados Unidos
+472,Bogota,Bogota DC,Casa,19,F,Importado,Alemania
+473,Bogota,Bogota DC,Casa,40,F,Relacionado,Colombia
+474,Bogota,Bogota DC,Casa,33,F,Relacionado,Colombia
+475,Bogota,Bogota DC,Casa,37,F,Importado,Moxico
+476,Bogota,Bogota DC,Casa,41,M,Importado,Moxico
+477,Bogota,Bogota DC,Casa,30,F,Importado,Ecuador
+478,Bogota,Bogota DC,Casa,84,F,Relacionado,Colombia
+479,Bogota,Bogota DC,Casa,61,F,Relacionado,Colombia
+480,Bogota,Bogota DC,Casa,57,F,Importado,Estados Unidos
+481,Bogota,Bogota DC,Hospital,42,M,Relacionado,Colombia
+482,Bogota,Bogota DC,Casa,50,M,Importado,Ecuador
+483,Bogota,Bogota DC,Casa,51,M,En estudio,Colombia
+484,Bogota,Bogota DC,Casa,39,M,Relacionado,Colombia
+485,Bogota,Bogota DC,Casa,30,M,Relacionado,Colombia
+486,Bogota,Bogota DC,Casa,37,F,Importado,Espana
+487,Bogota,Bogota DC,Casa,22,M,Importado,Espana
+488,Cali,Valle del Cauca,Casa,27,M,Relacionado,Colombia
+489,Tunja,Boyaco,Casa,69,M,Importado,Espana
+490,Cali,Valle del Cauca,Casa,32,M,Importado,Estados Unidos
+491,Bogota,Bogota DC,Fallecido,84,M,En estudio,Colombia
+492,Bogota,Bogota DC,Hospital UCI,85,M,Importado,Espana
+493,Bogota,Bogota DC,Casa,65,M,Relacionado,Colombia
+494,Bogota,Bogota DC,Casa,23,F,En estudio,Colombia
+495,Bogota,Bogota DC,Casa,35,M,Importado,Panamo
+496,Bogota,Bogota DC,Casa,32,F,Importado,Panamo
+497,Bogota,Bogota DC,Casa,34,M,Importado,Estados Unidos
+498,Bogota,Bogota DC,Casa,48,M,Importado,Espana
+499,Bogota,Bogota DC,Hospital,42,F,Importado,Espana
+500,Bogota,Bogota DC,Casa,28,F,Importado,Chile
+501,Bogota,Bogota DC,Casa,28,M,Relacionado,Colombia
+502,Bogota,Bogota DC,Hospital,31,M,Relacionado,Colombia
+503,Bogota,Bogota DC,Casa,50,M,Importado,Ecuador
+504,Bogota,Bogota DC,Casa,27,M,Importado,Brasil
+505,Bogota,Bogota DC,Casa,52,M,Importado,Francia
+506,Tocancipo,Cundinamarca,Casa,34,F,Importado,Espana
+507,Bogota,Bogota DC,Casa,47,F,Importado,Espana
+508,Bogota,Bogota DC,Casa,35,M,Importado,Espana
+509,Bogota,Bogota DC,Casa,37,M,En estudio,Colombia
+510,Bogota,Bogota DC,Hospital,72,M,En estudio,Colombia
+511,Bogota,Bogota DC,Casa,74,F,En estudio,Colombia
+512,Bogota,Bogota DC,Casa,35,M,Importado,Espana
+513,Bogota,Bogota DC,Casa,71,M,En estudio,Colombia
+514,Bogota,Bogota DC,Hospital UCI,71,M,Relacionado,Colombia
+515,Bogota,Bogota DC,Casa,50,M,Importado,Espana
+516,Bogota,Bogota DC,Casa,80,F,Importado,Espana
+517,Bogota,Bogota DC,Casa,30,F,Relacionado,Colombia
+518,Bogota,Bogota DC,Casa,24,F,Relacionado,Colombia
+519,Bogota,Bogota DC,Casa,20,M,Relacionado,Colombia
+520,Bogota,Bogota DC,Casa,47,M,Relacionado,Colombia
+521,Bogota,Bogota DC,Casa,26,M,Relacionado,Colombia
+522,Bogota,Bogota DC,Casa,24,F,Relacionado,Colombia
+523,Bogota,Bogota DC,Casa,62,F,Importado,Francia
+524,Bogota,Bogota DC,Casa,37,M,Importado,Estados Unidos
+525,Bogota,Bogota DC,Casa,32,M,Importado,Ecuador
+526,Bogota,Bogota DC,Casa,36,F,Relacionado,Colombia
+527,Bogota,Bogota DC,Casa,56,F,Relacionado,Colombia
+528,Bogota,Bogota DC,Casa,33,F,Relacionado,Colombia
+529,Bogota,Bogota DC,Casa,51,M,Relacionado,Colombia
+530,Bogota,Bogota DC,Casa,43,M,Relacionado,Colombia
+531,Santa Marta,Santa Marta DT y C,Casa,34,F,En estudio,Colombia
+532,Puerto Colombia,Atlontico,Casa,47,F,En estudio,Colombia
+533,Barranquilla,Barranquilla DE,Casa,25,M,Importado,Espana
+534,Armenia,Quindio,Casa,26,M,Importado,Estados Unidos
+535,Soledad,Atlontico,Fallecido,50,M,Relacionado,Colombia
+536,Armenia,Quindio,Casa,24,M,Importado,Francia
+537,Armenia,Quindio,Casa,34,F,Relacionado,Colombia
+538,Santa Marta,Santa Marta DT y C,Casa,49,F,En estudio,Colombia
+539,Manizales,Caldas,Casa,81,M,Relacionado,Colombia
+540,Mosquera,Cundinamarca,Casa,37,M,Importado,Egipto
+541,Cali,Valle del Cauca,Casa,57,F,Relacionado,Colombia
+542,Cali,Valle del Cauca,Casa,30,M,Importado,Costa Rica
+543,Cali,Valle del Cauca,Fallecido,51,M,Relacionado,Colombia
+544,Cali,Valle del Cauca,Casa,27,F,Relacionado,Colombia
+545,Palmira,Valle del Cauca,Casa,9,M,Relacionado,Colombia
+546,Palmira,Valle del Cauca,Casa,60,F,Relacionado,Colombia
+547,Sahagon,Cordoba,Casa,29,F,Importado,Espana
+548,Pasto,Narino,Casa,54,M,Importado,Moxico
+549,Valledupar,Cesar,Casa,16,F,Importado,Inglaterra
+550,Polonuevo,Atlontico,Casa,16,M,En estudio,Colombia
+551,Bogota,Bogota DC,Casa,29,M,En estudio,Colombia
+552,Bogota,Bogota DC,Hospital,40,M,En estudio,Colombia
+553,Bogota,Bogota DC,Casa,33,M,Importado,Ecuador
+554,Bogota,Bogota DC,Casa,42,M,En estudio,Colombia
+555,Bogota,Bogota DC,Casa,39,M,Importado,Ecuador
+556,Bogota,Bogota DC,Casa,43,M,Importado,Moxico
+557,Bogota,Bogota DC,Casa,82,F,En estudio,Colombia
+558,Bogota,Bogota DC,Casa,41,M,Importado,Jamaica
+559,Bogota,Bogota DC,Casa,53,M,En estudio,Colombia
+560,Bogota,Bogota DC,Hospital UCI,55,F,En estudio,Colombia
+561,Bogota,Bogota DC,Hospital UCI,49,M,En estudio,Colombia
+562,Bogota,Bogota DC,Casa,58,F,Relacionado,Colombia
+563,Bogota,Bogota DC,Casa,38,F,En estudio,Colombia
+564,Bogota,Bogota DC,Casa,31,F,En estudio,Colombia
+565,Bogota,Bogota DC,Casa,64,F,En estudio,Colombia
+566,Bogota,Bogota DC,Hospital UCI,48,F,En estudio,Colombia
+567,Bogota,Bogota DC,Casa,33,F,En estudio,Colombia
+568,Bogota,Bogota DC,Casa,35,M,En estudio,Colombia
+569,Bogota,Bogota DC,Fallecido,57,F,En estudio,Colombia
+570,Bogota,Bogota DC,Casa,30,M,En estudio,Colombia
+571,Bogota,Bogota DC,Casa,54,M,En estudio,Colombia
+572,Bogota,Bogota DC,Casa,53,F,En estudio,Colombia
+573,Bogota,Bogota DC,Casa,38,F,Importado,Cuba
+574,Bogota,Bogota DC,Casa,30,M,En estudio,Colombia
+575,Bogota,Bogota DC,Casa,38,M,Importado,Espana
+576,Bogota,Bogota DC,Casa,31,F,Importado,Europa
+577,Bogota,Bogota DC,Casa,38,M,En estudio,Colombia
+578,Bogota,Bogota DC,Casa,37,M,Importado,Espana
+579,Bogota,Bogota DC,Hospital,68,F,Importado,Estados Unidos
+580,Bogota,Bogota DC,Casa,43,M,Relacionado,Colombia
+581,Bogota,Bogota DC,Casa,26,M,En estudio,Colombia
+582,Bogota,Bogota DC,Casa,62,M,En estudio,Colombia
+583,Bogota,Bogota DC,Hospital,30,M,En estudio,Colombia
+584,Bogota,Bogota DC,Casa,37,M,Importado,Moxico
+585,Bogota,Bogota DC,Casa,33,F,Relacionado,Colombia
+586,Bogota,Bogota DC,Hospital UCI,67,F,Importado,Jamaica - Isla Caimon - Panamo
+587,Villapinzon,Cundinamarca,Hospital UCI,67,F,En estudio,Colombia
+588,Bogota,Bogota DC,Casa,39,M,Relacionado,Colombia
+589,Bogota,Bogota DC,Casa,50,F,Importado,Espana
+590,Cartago,Valle del Cauca,Casa,58,M,Importado,Espana
+591,Cali,Valle del Cauca,Casa,28,F,Relacionado,Colombia
+592,Cali,Valle del Cauca,Hospital,72,M,Importado,Espana
+593,Cali,Valle del Cauca,Casa,47,F,Importado,Espana
+594,Cali,Valle del Cauca,Hospital,27,M,En estudio,Colombia
+595,Medellin,Antioquia,Casa,27,F,Importado,Estados Unidos
+596,Montebello,Antioquia,Casa,52,F,Importado,Panamo
+597,Medellin,Antioquia,Casa,21,M,Importado,Alemania
+598,Medellin,Antioquia,Casa,24,F,Importado,Estados Unidos
+599,Medellin,Antioquia,Casa,32,F,Importado,Estados Unidos
+600,Chinchina,Caldas,Casa,25,M,Relacionado,Colombia
+601,Armenia,Quindio,Casa,59,M,Importado,Estados Unidos
+602,Medellin,Antioquia,Casa,46,F,Importado,Espana
+603,Santa Rosa de Osos,Antioquia,Casa,55,M,Importado,Jamaica
+604,Barranquilla,Barranquilla DE,Casa,54,M,Relacionado,Colombia
+605,Barranquilla,Barranquilla DE,Casa,37,F,Relacionado,Colombia
+606,Turbaco,Bolivar,Casa,58,M,Relacionado,Colombia
+607,Cartagena,Cartagena DT y C,Casa,31,M,Relacionado,Colombia
+608,Barranquilla,Barranquilla DE,Casa,47,M,Importado,Espana
+609,Envigado,Antioquia,Casa,51,F,Importado,Turquoa
+610,Envigado,Antioquia,Hospital,60,M,En estudio,Colombia
+611,Medellin,Antioquia,Casa,82,F,Importado,Panamo
+612,Medellin,Antioquia,Hospital UCI,42,M,En estudio,Colombia
+613,Bello,Antioquia,Casa,73,M,Importado,Espana
+614,Cali,Valle del Cauca,Casa,64,F,En estudio,Colombia
+615,Cali,Valle del Cauca,Casa,46,M,Relacionado,Colombia
+616,Cali,Valle del Cauca,Casa,12,F,Relacionado,Colombia
+617,Cali,Valle del Cauca,Casa,32,M,Relacionado,Colombia
+618,Cali,Valle del Cauca,Casa,62,F,En estudio,Colombia
+619,Cali,Valle del Cauca,Fallecido,36,M,En estudio,Colombia
+620,Palmira,Valle del Cauca,Casa,45,M,Importado,Emiratos orabes
+621,Bogota,Bogota DC,Casa,25,M,Relacionado,Colombia
+622,Bogota,Bogota DC,Casa,42,F,Importado,Espana
+623,Bogota,Bogota DC,Casa,62,F,Importado,Alemania
+624,Bogota,Bogota DC,Hospital,38,M,Relacionado,Colombia
+625,Bogota,Bogota DC,Casa,45,F,Relacionado,Colombia
+626,Bogota,Bogota DC,Casa,45,F,Relacionado,Colombia
+627,Bogota,Bogota DC,Casa,45,M,Importado,Islas San Martin
+628,Bogota,Bogota DC,Casa,42,F,Relacionado,Colombia
+629,Bogota,Bogota DC,Casa,42,F,Relacionado,Colombia
+630,Bogota,Bogota DC,Hospital UCI,62,M,Importado,Puerto Rico
+631,Bogota,Bogota DC,Casa,29,M,Relacionado,Colombia
+632,Bogota,Bogota DC,Casa,70,M,Relacionado,Colombia
+633,Bogota,Bogota DC,Casa,60,F,Relacionado,Colombia
+634,Bogota,Bogota DC,Casa,50,F,Importado,Panamo
+635,Bogota,Bogota DC,Casa,29,M,Relacionado,Colombia
+636,Bogota,Bogota DC,Hospital,69,F,Importado,Espana
+637,Bogota,Bogota DC,Casa,52,M,Relacionado,Colombia
+638,Bogota,Bogota DC,Hospital UCI,58,F,Importado,Moxico
+639,Bogota,Bogota DC,Casa,46,M,Relacionado,Colombia
+640,Bogota,Bogota DC,Hospital,68,M,En estudio,Colombia
+641,Bogota,Bogota DC,Casa,26,F,En estudio,Colombia
+642,Bogota,Bogota DC,Casa,38,M,Relacionado,Colombia
+643,Bogota,Bogota DC,Casa,25,F,Importado,Estados Unidos
+644,Bogota,Bogota DC,Casa,22,F,Importado,Estados Unidos
+645,Bogota,Bogota DC,Casa,33,M,En estudio,Colombia
+646,Bogota,Bogota DC,Casa,34,F,Importado,Espana
+647,Bogota,Bogota DC,Casa,28,F,Importado,Bolgica
+648,Bogota,Bogota DC,Casa,42,F,Relacionado,Colombia
+649,Bogota,Bogota DC,Casa,51,M,Importado,Espana
+650,Bogota,Bogota DC,Casa,65,M,Relacionado,Colombia
+651,Bogota,Bogota DC,Hospital,57,M,En estudio,Colombia
+652,Bogota,Bogota DC,Casa,34,M,Relacionado,Colombia
+653,Bogota,Bogota DC,Casa,30,M,Relacionado,Colombia
+654,Bello,Antioquia,Casa,33,F,Importado,Jamaica
+655,Bello,Antioquia,Casa,29,M,Importado,Panamo
+656,Medellin,Antioquia,Casa,61,F,Relacionado,Colombia
+657,Medellin,Antioquia,Casa,8,F,Relacionado,Colombia
+658,Medellin,Antioquia,Casa,30,F,Relacionado,Colombia
+659,Neiva,Huila,Casa,26,M,Relacionado,Colombia
+660,Neiva,Huila,Casa,21,F,Relacionado,Colombia
+661,Cali,Valle del Cauca,Casa,26,M,Relacionado,Colombia
+662,Valledupar,Cesar,Casa,36,M,Importado,Espana
+663,Cartagena,Cartagena DT y C,Casa,16,F,Relacionado,Colombia
+664,Cartagena,Cartagena DT y C,Casa,42,F,Relacionado,Colombia
+665,Cartagena,Cartagena DT y C,Casa,24,F,Relacionado,Colombia
+666,Cartagena,Cartagena DT y C,Casa,24,F,Relacionado,Colombia
+667,Cartagena,Cartagena DT y C,Casa,29,F,Relacionado,Colombia
+668,Barranquilla,Barranquilla DE,Casa,64,M,Relacionado,Colombia
+669,Sincelejo,Sucre,Casa,21,F,Relacionado,Colombia
+670,Villamaroa,Caldas,Casa,39,F,Importado,Espana
+671,Barranquilla,Barranquilla DE,Casa,28,F,Relacionado,Colombia
+672,Barranquilla,Barranquilla DE,Casa,1,M,Relacionado,Colombia
+673,Barranquilla,Barranquilla DE,Casa,35,M,Relacionado,Colombia
+674,Cartagena,Cartagena DT y C,Fallecido,33,F,Relacionado,Colombia
+675,Cartagena,Cartagena DT y C,Casa,41,M,Importado,Estados Unidos
+676,Rionegro,Antioquia,Casa,24,M,En estudio,Colombia
+677,Rionegro,Antioquia,Hospital UCI,80,M,En estudio,Colombia
+678,Envigado,Antioquia,Casa,40,F,Relacionado,Colombia
+679,Medellin,Antioquia,Casa,24,F,Importado,Espana
+680,Envigado,Antioquia,Casa,18,F,Relacionado,Colombia
+681,Medellin,Antioquia,Casa,5,F,En estudio,Colombia
+682,Medellin,Antioquia,Casa,63,F,Importado,Espana
+683,Rionegro,Antioquia,Casa,50,M,En estudio,Colombia
+684,Medellin,Antioquia,Casa,42,M,En estudio,Colombia
+685,Bucaramanga,Santander,Casa,80,F,Importado,Brasil
+686,Bucaramanga,Santander,Casa,58,M,Importado,Panamo
+687,Bucaramanga,Santander,Casa,24,M,Importado,Moxico
+688,Floridablanca,Santander,Casa,46,M,En estudio,Colombia
+689,Lorica,Cordoba,Casa,35,M,Relacionado,Colombia
+690,Oicato,Boyaco,Casa,72,F,Importado,Francia
+691,Dosquebradas,Risaralda,Casa,55,F,Importado,Turquoa
+692,Pereira,Risaralda,Casa,62,F,Relacionado,Colombia
+693,Pereira,Risaralda,Casa,6,F,Relacionado,Colombia
+694,Pereira,Risaralda,Casa,63,M,Relacionado,Colombia
+695,Pereira,Risaralda,Casa,66,F,Relacionado,Colombia
+696,Pereira,Risaralda,Casa,54,F,Relacionado,Colombia
+697,Pereira,Risaralda,Casa,61,M,Relacionado,Colombia
+698,Pereira,Risaralda,Casa,32,M,Relacionado,Colombia
+699,Dosquebradas,Risaralda,Casa,47,M,Importado,Panamo
+700,Pereira,Risaralda,Casa,45,F,Importado,Francia
+701,Arjona,Bolivar,Casa,25,M,Relacionado,Colombia
+702,Arjona,Bolivar,Casa,22,F,Importado,Turquoa
+703,Santana,Boyaco,Casa,73,F,Relacionado,Colombia
+704,Cucuta,Norte de Santander,Casa,21,F,Importado,Panamo
+705,Sopo,Cundinamarca,Casa,60,M,Importado,Estados Unidos
+706,Choa,Cundinamarca,Casa,35,M,Importado,Ecuador
+707,Villapinzon,Cundinamarca,Hospital,65,M,Relacionado,Colombia
+708,Soacha,Cundinamarca,Casa,54,F,Importado,Estados Unidos
+709,Neiva,Huila,Casa,32,F,Relacionado,Colombia
+710,Neiva,Huila,Fallecido,64,F,En estudio,Colombia
+711,Neiva,Huila,Casa,27,F,Importado,Espana
+712,Palermo,Huila,Casa,45,M,En estudio,Colombia
+713,Palermo,Huila,Casa,33,F,Importado,Ecuador
+714,Cartagena,Cartagena DT y C,Fallecido,44,F,En estudio,Colombia
+715,Cartagena,Cartagena DT y C,Casa,36,F,Importado,Moxico
+716,Cartagena,Cartagena DT y C,Hospital UCI,49,F,Relacionado,Colombia
+717,Santa Marta,Santa Marta DT y C,Casa,28,F,Relacionado,Colombia
+718,La Dorada,Caldas,Casa,65,F,Relacionado,Colombia
+719,Cali,Valle del Cauca,Casa,26,F,Importado,Ecuador
+720,Cali,Valle del Cauca,Casa,31,M,Importado,Estados Unidos
+721,Cali,Valle del Cauca,Casa,45,F,Importado,Espana
+722,Cali,Valle del Cauca,Fallecido,68,M,En estudio,Colombia
+723,Medellin,Antioquia,Casa,24,M,Relacionado,Colombia
+724,Medellin,Antioquia,Casa,34,M,Importado,Espana
+725,Medellin,Antioquia,Casa,37,F,Relacionado,Colombia
+726,Medellin,Antioquia,Casa,36,M,En estudio,Colombia
+727,Medellin,Antioquia,Casa,25,M,Importado,Londres
+728,Itagui,Antioquia,Casa,53,M,Relacionado,Colombia
+729,Medellin,Antioquia,Casa,64,M,Relacionado,Colombia
+730,Medellin,Antioquia,Casa,19,F,Relacionado,Colombia
+731,Medellin,Antioquia,Casa,82,M,Importado,Estados Unidos
+732,Medellin,Antioquia,Casa,35,F,Relacionado,Colombia
+733,Barranquilla,Barranquilla DE,Hospital UCI,31,M,En estudio,Colombia
+734,Bogota,Bogota DC,Hospital,50,M,En estudio,Colombia
+735,Bogota,Bogota DC,Casa,48,M,En estudio,Colombia
+736,Bogota,Bogota DC,Hospital,32,M,En estudio,Colombia
+737,Bogota,Bogota DC,Casa,26,M,Importado,Estados Unidos
+738,Bogota,Bogota DC,Casa,47,F,En estudio,Colombia
+739,Bogota,Bogota DC,Casa,38,M,Importado,Londres
+740,Bogota,Bogota DC,Casa,29,F,En estudio,Colombia
+741,Bogota,Bogota DC,Casa,36,F,Importado,Londres
+742,Bogota,Bogota DC,Casa,38,M,En estudio,Colombia
+743,Bogota,Bogota DC,Hospital,75,F,En estudio,Colombia
+744,Bogota,Bogota DC,Casa,27,M,En estudio,Colombia
+745,Bogota,Bogota DC,Casa,51,F,Importado,Estados Unidos
+746,Bogota,Bogota DC,Casa,54,F,En estudio,Colombia
+747,Bogota,Bogota DC,Casa,52,M,En estudio,Colombia
+748,Bogota,Bogota DC,Casa,23,M,Importado,Londres
+749,Bogota,Bogota DC,Casa,50,M,Importado,Jamaica - Panamo - Islas del caribe - Cartagena
+750,Bogota,Bogota DC,Casa,61,M,Importado,Jamaica
+751,Bogota,Bogota DC,Casa,61,F,Importado,Jamaica
+752,Bogota,Bogota DC,Casa,73,M,En estudio,Colombia
+753,Bogota,Bogota DC,Casa,51,F,En estudio,Colombia
+754,Bogota,Bogota DC,Casa,28,M,En estudio,Colombia
+755,Bogota,Bogota DC,Casa,33,F,Importado,Islas San Martin
+756,Bogota,Bogota DC,Casa,38,M,Importado,Islas San Martin
+757,Bogota,Bogota DC,Casa,38,F,Importado,Islas San Martin
+758,Bogota,Bogota DC,Casa,31,M,Importado,Islas San Martin
+759,Bogota,Bogota DC,Casa,74,M,Importado,Islas San Martin
+760,Bogota,Bogota DC,Casa,29,M,Importado,Espana
+761,Bogota,Bogota DC,Casa,51,F,En estudio,Colombia
+762,Bogota,Bogota DC,Casa,21,F,En estudio,Colombia
+763,Bogota,Bogota DC,Casa,57,M,Importado,Argentina
+764,Bogota,Bogota DC,Casa,61,F,En estudio,Colombia
+765,Bogota,Bogota DC,Casa,35,M,En estudio,Colombia
+766,Bogota,Bogota DC,Casa,30,M,En estudio,Colombia
+767,Bogota,Bogota DC,Casa,31,F,Importado,Estados Unidos
+768,Bogota,Bogota DC,Casa,46,M,En estudio,Colombia
+769,Bogota,Bogota DC,Casa,84,M,Importado,Argentina
+770,Bogota,Bogota DC,Hospital,47,F,En estudio,Colombia
+771,Bogota,Bogota DC,Casa,72,F,Importado,Egipto
+772,Bogota,Bogota DC,Casa,65,M,Importado,Espana - Francia
+773,Bogota,Bogota DC,Casa,33,F,Importado,Turquoa
+774,Bogota,Bogota DC,Casa,68,F,Importado,Estados Unidos
+775,Bogota,Bogota DC,Casa,51,M,Relacionado,Colombia
+776,Bogota,Bogota DC,Casa,2,M,Relacionado,Colombia
+777,Bogota,Bogota DC,Casa,47,F,Relacionado,Colombia
+778,Bogota,Bogota DC,Hospital UCI,44,M,En estudio,Colombia
+779,Bogota,Bogota DC,Hospital,50,M,En estudio,Colombia
+780,Bogota,Bogota DC,Casa,30,F,En estudio,Colombia
+781,Bogota,Bogota DC,Casa,27,F,En estudio,Colombia
+782,Bogota,Bogota DC,Casa,35,M,Importado,Espana
+783,Bogota,Bogota DC,Casa,36,M,En estudio,Colombia
+784,Bogota,Bogota DC,Casa,28,M,Importado,Espana
+785,Bogota,Bogota DC,Casa,25,F,Relacionado,Colombia
+786,Bogota,Bogota DC,Casa,47,F,Relacionado,Colombia
+787,Bogota,Bogota DC,Casa,2,F,Relacionado,Colombia
+788,Bogota,Bogota DC,Hospital UCI,64,F,En estudio,Colombia
+789,Bogota,Bogota DC,Casa,51,M,Importado,Francia - Holanda
+790,Cali,Valle del Cauca,Casa,66,M,En estudio,Colombia
+791,Palmira,Valle del Cauca,Casa,88,M,En estudio,Colombia
+792,Cartago,Valle del Cauca,Casa,26,F,En estudio,Colombia
+793,Cali,Valle del Cauca,Casa,27,M,En estudio,Colombia
+794,Palmira,Valle del Cauca,Casa,55,F,Importado,Espana
+795,Palmira,Valle del Cauca,Casa,17,M,Relacionado,Colombia
+796,Palmira,Valle del Cauca,Casa,22,M,Importado,Espana
+797,Cali,Valle del Cauca,Hospital,83,M,Relacionado,Colombia
+798,Cartago,Valle del Cauca,Casa,63,F,Importado,Panamo
+799,Palmira,Valle del Cauca,Casa,69,F,Importado,Espana
+800,Cartago,Valle del Cauca,Casa,25,F,Importado,Espana
+801,Cali,Valle del Cauca,Casa,44,M,En estudio,Colombia
+802,Cali,Valle del Cauca,Hospital,54,M,En estudio,Colombia
+803,Cali,Valle del Cauca,Casa,20,F,Importado,Espana
+804,Cali,Valle del Cauca,Casa,28,M,Importado,Espana
+805,Cali,Valle del Cauca,Casa,26,M,En estudio,Colombia
+806,Cali,Valle del Cauca,Hospital UCI,26,M,En estudio,Colombia
+807,Cali,Valle del Cauca,Casa,32,M,Importado,Espana
+808,Cali,Valle del Cauca,Casa,30,F,Importado,Espana
+809,Cali,Valle del Cauca,Casa,38,M,Importado,Espana
+810,Tumaco,Narino,Casa,0,M,Importado,Ecuador
+811,Pasto,Narino,Casa,76,F,Importado,Espana
+812,Valledupar,Cesar,Hospital,46,M,Relacionado,Colombia
+813,Valledupar,Cesar,Casa,41,M,Relacionado,Colombia
+814,Valledupar,Cesar,Casa,38,M,Relacionado,Colombia
+815,Valledupar,Cesar,Casa,31,M,Importado,Estados Unidos
+816,Valledupar,Cesar,Casa,27,M,Relacionado,Colombia
+817,Valledupar,Cesar,Casa,40,M,Relacionado,Colombia
+818,Valledupar,Cesar,Casa,21,M,Relacionado,Colombia
+819,Barranquilla,Barranquilla DE,Casa,26,M,Importado,Estados Unidos
+820,Riohacha,La Guajira,Casa,42,M,Importado,Estados Unidos
+821,Santa Marta,Santa Marta DT y C,Casa,70,M,En estudio,Colombia
+822,Santa Marta,Santa Marta DT y C,Casa,43,M,Relacionado,Colombia
+823,Barranquilla,Barranquilla DE,Casa,57,F,Relacionado,Colombia
+824,Barranquilla,Barranquilla DE,Casa,32,F,Relacionado,Colombia
+825,Barranquilla,Barranquilla DE,Casa,44,M,Importado,Espana
+826,Barranquilla,Barranquilla DE,Casa,24,M,Importado,Estados Unidos
+827,Barranquilla,Barranquilla DE,Casa,25,M,Importado,Estados Unidos
+828,Barranquilla,Barranquilla DE,Hospital UCI,77,M,En estudio,Colombia
+829,Barranquilla,Barranquilla DE,Casa,30,F,En estudio,Colombia
+830,Cartagena,Cartagena DT y C,Hospital,55,F,En estudio,Colombia
+831,Cartagena,Cartagena DT y C,Casa,30,F,Relacionado,Colombia
+832,Sabaneta,Antioquia,Casa,59,M,Importado,Estados Unidos
+833,Medellin,Antioquia,Hospital UCI,67,F,En estudio,Colombia
+834,Medellin,Antioquia,Casa,66,M,Importado,Marruecos
+835,Medellin,Antioquia,Casa,56,F,Relacionado,Colombia
+836,Medellin,Antioquia,Hospital UCI,67,M,En estudio,Colombia
+837,Choa,Cundinamarca,Casa,57,M,Importado,Moxico
+838,Cota,Cundinamarca,Casa,19,M,Importado,Puerto Rico
+839,Cota,Cundinamarca,Casa,50,F,Importado,Puerto Rico
+840,Cota,Cundinamarca,Casa,57,M,Importado,Puerto Rico
+841,Cota,Cundinamarca,Casa,42,F,Importado,Puerto Rico
+842,Choa,Cundinamarca,Casa,25,F,En estudio,Colombia
+843,Cota,Cundinamarca,Casa,50,F,Relacionado,Colombia
+844,Zipaquiro,Cundinamarca,Fallecido,81,F,En estudio,Colombia
+845,Choa,Cundinamarca,Casa,47,F,Importado,Moxico
+846,Villavicencio,Meta,Casa,31,F,Importado,Estados Unidos
+847,Villavicencio,Meta,Casa,29,F,Importado,Estados Unidos
+848,Villavicencio,Meta,Casa,29,F,Importado,Estados Unidos
+849,Cucuta,Norte de Santander,Hospital,42,M,En estudio,Colombia
+850,Puerto Santander,Norte de Santander,Casa,26,M,En estudio,Colombia
+851,Cucuta,Norte de Santander,Casa,50,F,Importado,Canado
+852,Bucaramanga,Santander,Casa,25,M,Importado,Moxico
+853,Bucaramanga,Santander,Casa,34,M,Importado,Estados Unidos
+854,Floridablanca,Santander,Casa,57,M,Importado,Estados Unidos
+855,Neiva,Huila,Casa,36,M,Relacionado,Colombia
+856,Neiva,Huila,Casa,33,F,Relacionado,Colombia
+857,Neiva,Huila,Casa,61,F,Relacionado,Colombia
+858,Pereira,Risaralda,Casa,18,F,Relacionado,Colombia
+859,Pereira,Risaralda,Casa,9,M,Importado,Espana
+860,Pereira,Risaralda,Casa,30,F,Importado,Espana
+861,Pereira,Risaralda,Hospital,32,F,En estudio,Colombia
+862,Pereira,Risaralda,Casa,32,M,Importado,Espana
+863,Pereira,Risaralda,Casa,22,F,Importado,Estados Unidos
+864,Tunja,Boyaco,Hospital UCI,84,M,En estudio,Colombia
+865,Toguo,Boyaco,Casa,70,F,En estudio,Colombia
+866,Bogota,Bogota DC,Casa,49,M,Relacionado,Colombia
+867,Bogota,Bogota DC,Casa,28,M,Relacionado,Colombia
+868,Bogota,Bogota DC,Hospital,33,M,Relacionado,Colombia
+869,Bogota,Bogota DC,Casa,69,M,Relacionado,Colombia
+870,Bogota,Bogota DC,Casa,2,F,Relacionado,Colombia
+871,Bogota,Bogota DC,Casa,39,F,Relacionado,Colombia
+872,Bogota,Bogota DC,Casa,50,M,Importado,Ecuador
+873,Bogota,Bogota DC,Casa,15,F,Importado,Estados Unidos
+874,Bogota,Bogota DC,Casa,30,M,Importado,Estados Unidos
+875,Bogota,Bogota DC,Casa,27,M,Relacionado,Colombia
+876,Bogota,Bogota DC,Hospital UCI,32,M,Relacionado,Colombia
+877,Bogota,Bogota DC,Casa,58,F,Importado,Turquoa
+878,Bogota,Bogota DC,Casa,56,F,Relacionado,Colombia
+879,Bogota,Bogota DC,Casa,13,M,Relacionado,Colombia
+880,Bogota,Bogota DC,Hospital UCI,66,F,Relacionado,Colombia
+881,Bogota,Bogota DC,Casa,45,M,Relacionado,Colombia
+882,Bogota,Bogota DC,Casa,40,F,Importado,Moxico
+883,Bogota,Bogota DC,Casa,55,F,Relacionado,Colombia
+884,Bogota,Bogota DC,Casa,18,M,Importado,Inglaterra
+885,Bogota,Bogota DC,Casa,56,M,Relacionado,Colombia
+886,Bogota,Bogota DC,Casa,65,F,En estudio,Colombia
+887,Bogota,Bogota DC,Casa,36,M,Relacionado,Colombia
+888,Bogota,Bogota DC,Casa,35,M,En estudio,Colombia
+889,Bogota,Bogota DC,Casa,31,M,En estudio,Colombia
+890,Bogota,Bogota DC,Casa,49,M,En estudio,Colombia
+891,Bogota,Bogota DC,Casa,43,F,En estudio,Colombia
+892,Bogota,Bogota DC,Casa,28,F,En estudio,Colombia
+893,Bogota,Bogota DC,Casa,32,M,En estudio,Colombia
+894,Bogota,Bogota DC,Casa,41,M,En estudio,Colombia
+895,Bogota,Bogota DC,Casa,38,F,En estudio,Colombia
+896,Bogota,Bogota DC,Casa,18,M,En estudio,Colombia
+897,Bogota,Bogota DC,Casa,35,M,En estudio,Colombia
+898,Bogota,Bogota DC,Casa,31,F,En estudio,Colombia
+899,Bogota,Bogota DC,Casa,20,F,En estudio,Colombia
+900,Bogota,Bogota DC,Casa,2,M,En estudio,Colombia
+901,Bogota,Bogota DC,Casa,37,M,En estudio,Colombia
+902,Bogota,Bogota DC,Casa,29,F,En estudio,Colombia
+903,Bogota,Bogota DC,Casa,38,M,En estudio,Colombia
+904,Bogota,Bogota DC,Casa,54,F,En estudio,Colombia
+905,Bogota,Bogota DC,Casa,30,F,En estudio,Colombia
+906,Bogota,Bogota DC,Casa,44,F,En estudio,Colombia
+907,Montenegro,Quindio,Casa,9,F,Relacionado,Colombia
+908,Montenegro,Quindio,Casa,35,F,Relacionado,Colombia
+909,Medellin,Antioquia,Casa,51,F,Relacionado,Colombia
+910,Medellin,Antioquia,Casa,21,F,Importado,Espana
+911,Medellin,Antioquia,Hospital,29,M,Relacionado,Colombia
+912,Medellin,Antioquia,Casa,45,F,Relacionado,Colombia
+913,Envigado,Antioquia,Hospital,82,M,En estudio,Colombia
+914,Ibague,Tolima,Casa,48,F,Importado,Estados Unidos
+915,Floridablanca,Santander,Casa,25,M,Relacionado,Colombia
+916,Barranquilla,Barranquilla DE,Casa,61,M,En estudio,Colombia
+917,Cumbal,Narino,Casa,57,F,Importado,Ecuador
+918,Cumbal,Narino,Casa,58,M,Importado,Ecuador
+919,Cartago,Valle del Cauca,Casa,16,F,Importado,Francia
+920,Cali,Valle del Cauca,Casa,41,M,En estudio,Colombia
+921,Ulloa,Valle del Cauca,Casa,58,M,Importado,Estados Unidos
+922,Yumbo,Valle del Cauca,Casa,68,F,Importado,Espana
+923,Santander de Quilichao,Cauca,Fallecido,19,F,En estudio,Colombia
+924,Cali,Valle del Cauca,Casa,16,F,En estudio,Colombia
+925,San Andros,San Andros,Casa,31,M,En estudio,Colombia
+926,Cota,Cundinamarca,Casa,26,F,Relacionado,Colombia
+927,Soacha,Cundinamarca,Casa,15,M,Relacionado,Colombia
+928,Funza,Cundinamarca,Casa,43,F,Relacionado,Colombia
+929,Zipaquiro,Cundinamarca,Hospital,39,M,En estudio,Colombia
+930,Cali,Valle del Cauca,Casa,35,M,Importado,Moxico
+931,Cali,Valle del Cauca,Hospital,57,M,En estudio,Colombia
+932,Cali,Valle del Cauca,Casa,47,F,En estudio,Colombia
+933,Cali,Valle del Cauca,Casa,23,F,En estudio,Colombia
+934,Tuloa,Valle del Cauca,Casa,47,F,En estudio,Colombia
+935,Yumbo,Valle del Cauca,Casa,31,F,Relacionado,Colombia
+936,Yumbo,Valle del Cauca,Casa,4,M,Relacionado,Colombia
+937,CALI,Valle del Cauca,Casa,50,M,Importado,Estados Unidos
+938,Cali,Valle del Cauca,Casa,21,F,Importado,Repoblica Dominicana
+939,Cali,Valle del Cauca,Casa,42,F,Relacionado,Colombia
+940,Cali,Valle del Cauca,Casa,61,F,Importado,Espana - Turquia
+941,Neiva,Huila,Casa,26,F,Relacionado,Colombia
+942,Neiva,Huila,Casa,45,M,Relacionado,Colombia
+943,Neiva,Huila,Casa,39,F,Relacionado,Colombia
+944,Neiva,Huila,Casa,50,F,Relacionado,Colombia
+945,Neiva,Huila,Hospital UCI,47,M,En estudio,Colombia
+946,Neiva,Huila,Hospital,59,M,En estudio,Colombia
+947,Santa Marta,Santa Marta DT y C,Hospital,43,F,En estudio,Colombia
+948,Santa Marta,Santa Marta DT y C,Hospital,41,M,En estudio,Colombia
+949,Villavicencio,Meta,Casa,31,M,Importado,Moxico
+950,Yopal,Casanare,Casa,26,M,En estudio,Colombia
+951,Valledupar,Cesar,Casa,36,M,Relacionado,Colombia
+952,Valledupar,Cesar,Hospital UCI,70,M,Relacionado,Colombia
+953,Valledupar,Cesar,Casa,33,M,Relacionado,Colombia
+954,Valledupar,Cesar,Casa,33,M,Relacionado,Colombia
+955,Valledupar,Cesar,Casa,27,M,Relacionado,Colombia
+956,Cali,Valle del Cauca,Casa,64,F,Importado,Aruba
+957,cali,Valle del Cauca,Casa,46,F,Relacionado,Colombia
+958,Yumbo,Valle del Cauca,Casa,19,F,Relacionado,Colombia
+959,Cali,Valle del Cauca,Casa,39,F,En estudio,Colombia
+960,Palmira,Valle del Cauca,Casa,12,M,Relacionado,Colombia
+961,Cali,Valle del Cauca,Hospital UCI,64,M,En estudio,Colombia
+962,Cali,Valle del Cauca,Casa,68,F,Importado,Suiza
+963,Cali,Valle del Cauca,Casa,36,M,En estudio,Colombia
+964,Cali,Valle del Cauca,Casa,45,M,Relacionado,Colombia
+965,Cali,Valle del Cauca,Casa,32,M,Importado,Estados Unidos
+966,Cali,Valle del Cauca,Casa,51,M,Importado,Aruba
+967,Cali,Valle del Cauca,Casa,44,F,Importado,Moxico
+968,Cali,Valle del Cauca,Casa,46,M,Importado,Estados Unidos
+969,Cali,Valle del Cauca,Casa,39,F,Relacionado,Colombia
+970,Cali,Valle del Cauca,Casa,35,F,Importado,Estados Unidos
+971,Popayan,Cauca,Casa,33,M,Relacionado,Colombia
+972,Popayan,Cauca,Casa,32,F,Relacionado,Colombia
+973,Armenia,Quindio,Casa,37,M,Relacionado,Colombia
+974,Armenia,Quindio,Casa,58,F,Relacionado,Colombia
+975,Filandia,Quindio,Casa,22,M,Importado,Estados Unidos
+976,Ibague,Tolima,Casa,55,F,Importado,Panamo - Jamaica
+977,Ibague,Tolima,Casa,63,F,Importado,Espana
+978,Ibague,Tolima,Hospital,26,F,Importado,Estados Unidos
+979,Ibague,Tolima,Casa,31,M,Relacionado,Colombia
+980,Barranquilla,Barranquilla DE,Casa,57,M,Importado,Estados Unidos
+981,Circasia,Quindio,Casa,40,M,Importado,Estados Unidos
+982,Circasia,Quindio,Casa,41,F,Importado,Estados Unidos
+983,Bogota,Bogota DC,Hospital,63,M,En estudio,Colombia
+984,Bogota,Bogota DC,Casa,15,F,En estudio,Colombia
+985,Bogota,Bogota DC,Casa,39,F,En estudio,Colombia
+986,Bogota,Bogota DC,Casa,49,F,En estudio,Colombia
+987,Bogota,Bogota DC,Hospital UCI,73,M,En estudio,Colombia
+988,Bogota,Bogota DC,Hospital UCI,72,M,En estudio,Colombia
+989,Bogota,Bogota DC,Casa,35,M,En estudio,Colombia
+990,Bogota,Bogota DC,Hospital,50,M,En estudio,Colombia
+991,Bogota,Bogota DC,Casa,51,F,En estudio,Colombia
+992,Bogota,Bogota DC,Casa,54,M,En estudio,Colombia
+993,Bogota,Bogota DC,Casa,31,F,En estudio,Colombia
+994,Bogota,Bogota DC,Casa,32,M,En estudio,Colombia
+995,Bogota,Bogota DC,Casa,23,F,En estudio,Colombia
+996,Bogota,Bogota DC,Casa,30,F,En estudio,Colombia
+997,Bogota,Bogota DC,Casa,44,F,En estudio,Colombia
+998,Bogota,Bogota DC,Casa,17,F,En estudio,Colombia
+999,Bogota,Bogota DC,Casa,39,F,En estudio,Colombia
+1000,Bogota,Bogota DC,Casa,30,F,En estudio,Colombia
+1001,Bogota,Bogota DC,Casa,56,M,En estudio,Colombia
+1002,Bogota,Bogota DC,Casa,24,M,En estudio,Colombia
+1003,Bogota,Bogota DC,Casa,54,M,En estudio,Colombia
+1004,Bogota,Bogota DC,Casa,29,M,En estudio,Colombia
+1005,Bogota,Bogota DC,Casa,26,F,En estudio,Colombia
+1006,Bogota,Bogota DC,Casa,32,F,En estudio,Colombia
+1007,Bogota,Bogota DC,Casa,66,F,En estudio,Colombia
+1008,Bogota,Bogota DC,Casa,54,F,En estudio,Colombia
+1009,Bogota,Bogota DC,Casa,56,F,En estudio,Colombia
+1010,Bogota,Bogota DC,Casa,42,F,En estudio,Colombia
+1011,Bogota,Bogota DC,Casa,23,M,En estudio,Colombia
+1012,Bogota,Bogota DC,Casa,24,M,En estudio,Colombia
+1013,Bogota,Bogota DC,Casa,12,M,En estudio,Colombia
+1014,Bogota,Bogota DC,Casa,64,F,En estudio,Colombia
+1015,Bogota,Bogota DC,Casa,29,F,Relacionado,Colombia
+1016,Bogota,Bogota DC,Casa,32,M,Relacionado,Colombia
+1017,Bogota,Bogota DC,Casa,21,F,En estudio,Colombia
+1018,Bogota,Bogota DC,Casa,22,F,Relacionado,Colombia
+1019,Bogota,Bogota DC,Hospital,58,F,En estudio,Colombia
+1020,Bogota,Bogota DC,Hospital,53,F,En estudio,Colombia
+1021,Bogota,Bogota DC,Casa,56,F,Relacionado,Colombia
+1022,Bogota,Bogota DC,Casa,56,M,Relacionado,Colombia
+1023,Bogota,Bogota DC,Casa,41,M,Relacionado,Colombia
+1024,Bogota,Bogota DC,Casa,31,F,Relacionado,Colombia
+1025,Bogota,Bogota DC,Casa,31,M,Relacionado,Colombia
+1026,Bogota,Bogota DC,Casa,40,F,En estudio,Colombia
+1027,Bogota,Bogota DC,Casa,27,F,Relacionado,Colombia
+1028,Bogota,Bogota DC,Casa,39,F,Relacionado,Colombia
+1029,Bogota,Bogota DC,Casa,26,M,Relacionado,Colombia
+1030,Bogota,Bogota DC,Hospital,39,M,Importado,Estados Unidos
+1031,Bogota,Bogota DC,Hospital,59,F,En estudio,Colombia
+1032,Bogota,Bogota DC,Hospital,71,F,En estudio,Colombia
+1033,Bogota,Bogota DC,Hospital,44,F,En estudio,Colombia
+1034,Bogota,Bogota DC,Casa,24,F,Relacionado,Colombia
+1035,Bogota,Bogota DC,Casa,2,F,En estudio,Colombia
+1036,Bogota,Bogota DC,Casa,20,M,En estudio,Colombia
+1037,Bogota,Bogota DC,Casa,31,M,Importado,Francia
+1038,Bogota,Bogota DC,Casa,40,M,Importado,Moxico
+1039,Bogota,Bogota DC,Casa,34,F,Importado,Francia
+1040,Bogota,Bogota DC,Hospital,70,M,Importado,Estados Unidos
+1041,Bogota,Bogota DC,Hospital,74,F,Relacionado,Colombia
+1042,Bogota,Bogota DC,Casa,30,M,Importado,Brasil
+1043,Bogota,Bogota DC,Casa,23,M,En estudio,Colombia
+1044,Bogota,Bogota DC,Casa,31,F,Relacionado,Colombia
+1045,Bogota,Bogota DC,Casa,26,F,En estudio,Colombia
+1046,Bogota,Bogota DC,Casa,38,M,Relacionado,Colombia
+1047,Bogota,Bogota DC,Casa,49,M,Importado,Turquoa
+1048,Bogota,Bogota DC,Casa,36,F,Importado,Turquoa
+1049,Bogota,Bogota DC,Casa,27,F,En estudio,Colombia
+1050,Bogota,Bogota DC,Casa,26,M,Importado,Espana
+1051,Bogota,Bogota DC,Casa,75,M,Relacionado,Colombia
+1052,Bogota,Bogota DC,Hospital,79,F,Relacionado,Colombia
+1053,Bogota,Bogota DC,Casa,33,F,Relacionado,Colombia
+1054,Bogota,Bogota DC,Casa,38,F,Importado,Espana
+1055,Bogota,Bogota DC,Casa,61,F,Importado,Israel Egipto
+1056,Bogota,Bogota DC,Casa,25,F,Importado,Estados Unidos
+1057,Bogota,Bogota DC,Hospital,38,F,En estudio,Colombia
+1058,Bogota,Bogota DC,Casa,39,F,Relacionado,Colombia
+1059,Bogota,Bogota DC,Casa,45,F,Relacionado,Colombia
+1060,Bogota,Bogota DC,Casa,47,M,Relacionado,Colombia
+1061,Bogota,Bogota DC,Hospital,47,F,En estudio,Colombia
+1062,Bogota,Bogota DC,Hospital,60,F,En estudio,Colombia
+1063,Bogota,Bogota DC,Casa,33,F,Relacionado,Colombia
+1064,Bogota,Bogota DC,Hospital UCI,33,M,En estudio,Colombia
+1065,Santa Rosa de Osos,Antioquia,Casa,32,F,Importado,Panamo
+1066,Rionegro,Antioquia,Hospital,40,F,Importado,Estados Unidos
+1067,Envigado,Antioquia,Hospital,51,F,Importado,Panamo
+1068,Medellin,Antioquia,Casa,43,M,Relacionado,Colombia
+1069,Medellin,Antioquia,Casa,63,F,Importado,Espana
+1070,Medellin,Antioquia,Casa,52,F,Importado,Turquoa
+1071,Medellin,Antioquia,Casa,41,F,En estudio,Colombia
+1072,Medellin,Antioquia,Casa,51,M,Importado,Estados Unidos
+1073,Medellin,Antioquia,Casa,37,F,Importado,Turquoa
+1074,Rionegro,Antioquia,Casa,39,F,Importado,Estados Unidos
+1075,Itagui,Antioquia,Casa,68,M,Importado,Estados Unidos
+1076,Medellin,Antioquia,Casa,30,F,Relacionado,Colombia
+1078,Bogota,Bogota DC,Fallecido,33,M,En estudio,Colombia
+1079,Anserma,Caldas,Casa,40,F,Importado,Espana
+1080,Cali,Valle del Cauca,Hospital,57,F,En estudio,Colombia
+1081,Cali,Valle del Cauca,Hospital,50,M,En estudio,Colombia
+1082,Palmira,Valle del Cauca,Casa,44,F,Importado,Estados Unidos
+1083,Cucuta,Norte de Santander,Casa,46,M,Importado,Espana
+1084,Cucuta,Norte de Santander,Casa,42,M,Importado,Pero
+1085,Medellin,Antioquia,Casa,70,F,En estudio,Colombia
+1086,Medellin,Antioquia,Casa,30,F,En estudio,Espana
+1087,Medellin,Antioquia,Casa,26,M,Importado,Moxico
+1088,Medellin,Antioquia,Casa,30,F,En estudio,Colombia
+1089,Don Matoas,Antioquia,Casa,50,M,Importado,Estados Unidos
+1090,Medellin,Antioquia,Casa,78,M,En estudio,Colombia
+1091,Bello,Antioquia,Casa,37,M,Importado,Espana - Francia
+1092,Medellin,Antioquia,Casa,22,F,Relacionado,Colombia
+1093,Bogota,Bogota DC,Casa,55,M,Importado,Pero
+1094,Bogota,Bogota DC,Casa,41,F,En estudio,Colombia
+1095,Bogota,Bogota DC,Hospital,60,M,En estudio,Colombia
+1096,Bogota,Bogota DC,Hospital UCI,59,M,Relacionado,Colombia
+1097,Bogota,Bogota DC,Casa,60,F,Importado,Espana
+1098,Bogota,Bogota DC,Casa,23,M,En estudio,Colombia
+1099,Bogota,Bogota DC,Casa,35,M,Importado,Turquoa
+1100,Bogota,Bogota DC,Casa,59,F,Importado,Estados Unidos
+1101,Bogota,Bogota DC,Casa,36,M,En estudio,Colombia
+1102,Bogota,Bogota DC,Casa,66,F,En estudio,Colombia
+1103,Bogota,Bogota DC,Casa,39,M,Importado,Francia
+1104,Bogota,Bogota DC,Casa,62,M,Importado,Espana
+1105,Bogota,Bogota DC,Casa,30,F,En estudio,Colombia
+1106,Bogota,Bogota DC,Casa,71,M,Importado,Estados Unidos
+1107,Bogota,Bogota DC,Casa,66,F,Importado,Estados Unidos
+1108,Bogota,Bogota DC,Hospital,60,F,En estudio,Colombia
+1109,Bogota,Bogota DC,Casa,57,M,Importado,Brasil
+1110,Bogota,Bogota DC,Casa,21,F,En estudio,Colombia
+1111,Bogota,Bogota DC,Casa,24,M,En estudio,Colombia
+1112,Bogota,Bogota DC,Casa,29,M,Importado,Estados Unidos
+1113,Bogota,Bogota DC,Hospital,44,M,En estudio,Colombia
+1114,Bogota,Bogota DC,Casa,28,F,En estudio,Colombia
+1115,Bogota,Bogota DC,Casa,50,F,En estudio,Colombia
+1116,Bogota,Bogota DC,Casa,38,F,Importado,Brasil
+1117,Bogota,Bogota DC,Casa,39,F,En estudio,Colombia
+1118,Bogota,Bogota DC,Casa,52,F,En estudio,Colombia
+1119,Bogota,Bogota DC,Casa,74,F,En estudio,Colombia
+1120,Bogota,Bogota DC,Casa,50,M,Importado,Brasil
+1121,Bogota,Bogota DC,Casa,62,M,En estudio,Colombia
+1122,Bogota,Bogota DC,Casa,39,F,Importado,Espana
+1123,Bogota,Bogota DC,Casa,84,F,Relacionado,Colombia
+1124,Bogota,Bogota DC,Casa,55,F,Importado,Francia
+1125,Bogota,Bogota DC,Casa,59,F,Importado,Francia
+1126,Bogota,Bogota DC,Casa,5,F,En estudio,Colombia
+1127,Bogota,Bogota DC,Casa,25,M,Importado,Espana
+1128,Bogota,Bogota DC,Casa,47,F,Importado,Moxico
+1129,Bogota,Bogota DC,Casa,60,M,En estudio,Colombia
+1130,Bogota,Bogota DC,Casa,37,F,En estudio,Colombia
+1131,Bogota,Bogota DC,Hospital,69,M,En estudio,Colombia
+1132,Bogota,Bogota DC,Hospital,67,F,En estudio,Colombia
+1133,Bogota,Bogota DC,Hospital,59,M,En estudio,Colombia
+1134,Bogota,Bogota DC,Casa,28,F,En estudio,Colombia
+1135,Bogota,Bogota DC,Casa,67,F,Importado,Estados Unidos
+1136,Bogota,Bogota DC,Casa,29,F,En estudio,Colombia
+1137,Bogota,Bogota DC,Casa,32,F,En estudio,Colombia
+1138,Bogota,Bogota DC,Hospital,40,M,Importado,Arabia
+1139,Bogota,Bogota DC,Casa,25,F,En estudio,Colombia
+1140,Bogota,Bogota DC,Casa,22,F,En estudio,Colombia
+1141,Bogota,Bogota DC,Hospital,69,M,En estudio,Colombia
+1142,Bogota,Bogota DC,Hospital,10,M,En estudio,Colombia
+1143,Bogota,Bogota DC,Casa,47,F,En estudio,Colombia
+1144,Bogota,Bogota DC,Casa,60,M,En estudio,Colombia
+1145,Bogota,Bogota DC,Casa,29,F,En estudio,Colombia
+1146,Bogota,Bogota DC,Casa,10,M,En estudio,Colombia
+1147,Bogota,Bogota DC,Casa,27,F,En estudio,Colombia
+1148,Bogota,Bogota DC,Casa,52,M,En estudio,Colombia
+1149,Bogota,Bogota DC,Casa,49,F,En estudio,Colombia
+1150,Bogota,Bogota DC,Hospital,50,M,En estudio,Colombia
+1151,Bogota,Bogota DC,Casa,47,F,En estudio,Colombia
+1152,Bogota,Bogota DC,Casa,34,F,Relacionado,Colombia
+1153,Bogota,Bogota DC,Casa,34,M,En estudio,Colombia
+1154,Bogota,Bogota DC,Casa,20,M,Importado,Estados Unidos
+1155,Bogota,Bogota DC,Casa,42,F,En estudio,Colombia
+1156,Bogota,Bogota DC,Casa,32,M,Importado,Moxico
+1157,Bogota,Bogota DC,Casa,28,M,Importado,Estados Unidos
+1158,Bogota,Bogota DC,Casa,38,F,En estudio,Colombia
+1159,Bogota,Bogota DC,Casa,3,M,En estudio,Colombia
+1160,Bogota,Bogota DC,Casa,48,M,En estudio,Colombia
+1161,Bogota,Bogota DC,Casa,22,M,Importado,Espana
